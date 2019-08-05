@@ -1,0 +1,10 @@
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\bin\Debug\calculadora_deskapp.exe.config
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\bin\Debug\calculadora_deskapp.exe
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\bin\Debug\calculadora_deskapp.pdb
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.csprojAssemblyReference.cache
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.Properties.Resources.resources
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.csproj.GenerateResource.cache
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.csproj.CoreCompileInputs.cache
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.exe
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.pdb
+F:\msi\Desktop\Proyectos-C#\calculadora_deskapp\calculadora_deskapp\obj\Debug\calculadora_deskapp.calcForm.resources
